@@ -4,7 +4,7 @@
 #include <math.h>
 double equation(double x)
 {
-    return pow(x, 3) - x - 1;
+    return pow(x, 3) - x - 1; // any function can be written here
 }
 int main()
 {
